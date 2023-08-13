@@ -25,7 +25,7 @@
         }
 
         // Set the recipient email address.
-        $recipient = "info@example.com";
+        $recipient = "contact@smartguardsolutions.fr";
 
         // Set the email sub.
         $sub = "Mail contact from $name";
